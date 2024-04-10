@@ -91,7 +91,7 @@ const App = () => {
 
     return (
         <div className="h-full w-screen bg-gray-800 text-white p-4">
-            <header className="text-center text-2xl font-bold">Puter Functionalities Explorer with Puter File Dialog Demo</header>
+            <header className="text-center text-2xl font-bold"><Title /></header>
             <div className="mt-4 flex flex-col items-center h-full">
                 <div>Welcome, {username}</div>
 
